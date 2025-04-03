@@ -10,12 +10,15 @@ The app also allows the user to enter a batch of urls stored in a file, the test
 # The Screenshots.
 
 Inputing batch file
+
 ![image](https://github.com/Money10-Lux/Pishing-Url-Classification/assets/82311627/839ecd56-4f50-4170-843a-78d9e5859100)
 
 Prediction of Batch File
+
 ![image](https://github.com/Money10-Lux/Pishing-Url-Classification/assets/82311627/dc4119aa-e0ac-4716-9e2f-66c2add0fe88)
 
 Prediction of the single URL
+
 ![image](https://github.com/Money10-Lux/Pishing-Url-Classification/assets/82311627/ebe72e1b-9a56-4a14-a56c-ab1fe9f090c1)
 ![image](https://github.com/Money10-Lux/Pishing-Url-Classification/assets/82311627/3e882709-7661-4adf-9c81-873d54c18206)
 
